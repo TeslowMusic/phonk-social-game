@@ -1,4 +1,4 @@
-# Harmony One Social Game
+# CryptoPhonk JDM Social Game
 
 This is a submission for the gitcoin bounty https://gitcoin.co/issue/harmony-one/bounties/47/100025829
 
