@@ -31,7 +31,7 @@
     "@ngrx/store": "^12.0.0",
     "@ngrx/store-devtools": "^12.0.0",
     "@types/react": "^17.0.5",
-    "@types/react-dom": "^17.0.5",
+    "@types/react-dom": "^17.0.17",
     "@walletconnect/web3-provider": "^1.4.1",
     "bn.js": "^5.2.0",
     "buffer": "^6.0.3",
