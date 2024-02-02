@@ -32,7 +32,7 @@
     "@ngrx/store-devtools": "^12.0.0",
     "@types/react": "^17.0.5",
     "@types/react-dom": "^17.0.5",
-    "@walletconnect/web3-provider": "^1.4.1",
+    "@walletconnect/web3-provider": "^1.8.0",
     "bn.js": "^5.2.0",
     "buffer": "^6.0.3",
     "luxon": "^1.27.0",
@@ -41,8 +41,8 @@
     "process": "^0.11.10",
     "rxjs": "~6.6.0",
     "tslib": "^2.0.0",
-    "web3": "^1.2.11",
-    "web3modal": "^1.9.3",
+    "web3": "^4.0.1",
+    "web3modal": "^1.9.12",
     "zone.js": "~0.10.2"
   },
   "devDependencies": {
